@@ -1,4 +1,4 @@
-# Image-Processing-Attendance-System
+# Image Processing based Attendance System
 
 ![Face Recognition](tumbnail.jpg)
 
